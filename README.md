@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dante134
-- 👀 I’m interested in ... full stack web3 dev & and exploring devOps
-- 🌱 I’m currently learning ... JS
+- 👀 I’m interested in ... dev ops & and exploring cloud computing
+- 🌱 I’m currently learning ... docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
