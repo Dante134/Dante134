@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dante134
-- 👀 I’m interested in ... dev ops & and exploring cloud computing
-- 🌱 I’m currently learning ... docker
+- 👀 I’m interested in ML, Data Science & and exploring Gen AI
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
