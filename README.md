@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dante134
+- 👋 Hi, I’m @Ayush
 - 👀 I’m interested in ML, Data Science & and exploring Gen AI
 - 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ...
