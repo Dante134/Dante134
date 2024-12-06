@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.69OSwEbMMvxTJDvjJtWx1QHaD4?rs=1&pid=ImgDetMain" alt="MasterHead" />
 </p>
-[![MasterHead](https://th.bing.com/th/id/OIP.69OSwEbMMvxTJDvjJtWx1QHaD4?rs=1&pid=ImgDetMain)]
 <h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
 <h3 align="center">A Data Science & ML enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
