@@ -13,7 +13,7 @@
 - 🎓 Dual Degree from **BITS Pilani**  
   - **B.E. (Hons.) Civil Engineering**  
   - **M.Sc. (Hons.) Mathematics**
-- 💼 Incoming **Data Engineer @ Axis Bank**
+- 💼 **Data Engineer @ Axis Bank**
 - 🌱 Currently learning **Kafka, Docker, Airflow**
 - 💬 Ask me about **Data Engineering, SQL, PySpark, ML basics**
 - 📫 Reach me at **ayushmishra256@gmail.com**
